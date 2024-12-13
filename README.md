@@ -2,11 +2,11 @@
 
 ## **Membres** 
 
-- Abi Vigneswaran
-- Jimryce Jouenne
-- Corentin Sinnema
-- Axel Friboulet
-- Corentin Thevenot 
+- **Abi Vigneswaran**
+- **Jimryce Jouenne**
+- **Corentin Sinnema**
+- **Axel Friboulet**
+- **Corentin Thevenot**
 
 ### **Description** 
 
