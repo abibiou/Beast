@@ -83,7 +83,8 @@
                 <p style="color: #FFFFFF;">Lorem ipsum dolor sit amet, consectetur adipiscing elit,<br>
                     Lorem ipsum dolor</p>
             <img class="card-img-top mt-4" src="../img/image 7 (1).png" alt="">
-            <p class="mt-4">VESTE ORIGINAL BEAST</p>
+            <h5 class="mt-4">VESTE ORIGINAL BEAST</h5>
+            <h5 class="mt-2">240€</h5>
         </div>
         </div>
         <div class="row">
@@ -123,8 +124,7 @@
             </div>
             <div class="col-md-6">
                 <h1 class="mt-5">QUI SOMMES-NOUS ? </h1>
-                <p style="font-size: 24px;" class="mt-5">Lorem ipsum dolor sit amet, consectetur adipiscing
-                     elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmo</p>
+                <p style="font-size: 24px;" class="mt-5">Nous sommes BEAST, fondée en 2024, notre marque de vêtements se spécialise dans le domaine de la randonnée et du bivouac. BEAST vous propose une large gamme d'habits et de toutes les couleurs, le tout avec une qualité supérieure. La majeure partie de nos produits est produite en France, offrant une qualité intéressante. Résistants dans tout type d'intempéries, BEAST est réputée pour sa polyvalence. </p>
             </div>
             <div class="col-md-6">
                 <img class="card-img-top " src="../img/image 18.png" alt="">
@@ -135,9 +135,8 @@
             <img class="card-img-top " src="../img/image 16 (1).png" alt="">
         </div>
         <div class="col-md-6">
-            <h1 class="mt-5">QUI SOMMES-NOUS ? </h1>
-            <p style="font-size: 24px;" class="mt-5">Lorem ipsum dolor sit amet, consectetur adipiscing
-                 elit, sed do eiusmod tempor incididunt ut labore et dolore magna aliqua. Ut enim ad minim veniam, quis nostrud exercitation ullamco laboris nisi ut aliquip ex Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmo</p>
+            <h1 class="mt-5">LA SUITE ? </h1>
+            <p style="font-size: 24px;" class="mt-5">BEAST souhaite se populariser au fil des années, connue pour sa fameuse veste imperméable avec des prix attractifs. BEAST souhaite s'étendre à l'international en collaborant avec diverses marques et variées. </p>
         </div>
         <div class="row mt-4">
             <h3 class="mt-4 text-center">VOIR PLUS</h3>
