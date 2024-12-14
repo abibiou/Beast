@@ -22,14 +22,14 @@
             </ul>
           </div>
           <a class="navbar-brand mx-auto" href="pagepanier.php" style="position: absolute; left: 50%; transform: translateX(-50%);">
-            <img src="../img/image 2.png" alt="Logo" style="height: 60px;">
+            <img src="./img/image 2.png" alt="Logo" style="height: 60px;">
           </a>
           <div class="d-flex align-items-center" style="position: absolute; right: 15px;">
             <a href="pagepanier.php">
-                <img src="../img/image 24.png" alt="Logo1" style="height: 30px; margin-right: 15px;">
+                <img src="./img/image 24.png" alt="Logo1" style="height: 30px; margin-right: 15px;">
             </a>
             <a href="Login.php">
-            <img src="../img/image 25.png" alt="Logo2" style="height: 30px;">
+            <img src="./img/image 25.png" alt="Logo2" style="height: 30px;">
             </a>
           </div>
         </div>
@@ -104,7 +104,7 @@
     <div class="col-md-3">
                 <div class="card" style="margin: 5px; border: none;">
                 <a href="produit.php?id=1" style="text-decoration: none; color: black;">
-                <img class="card-img-top" src="../img/img1.png" alt="">
+                <img class="card-img-top" src="./img/img1.png" alt="">
                  <div class="card-body">
                     <h4 class="card-title">VESTE BLEU BEAST</h4>
                     <h4 class="card-text mt-3">220€</h4>
@@ -115,7 +115,7 @@
             <div class="col-md-3">
                 <div class="card" style="margin: 5px; border: none;" >
                 <a href="produit.php?id=2" style="text-decoration: none; color: black;">
-                    <img class="card-img-top" src="../img/img2.png">
+                    <img class="card-img-top" src="./img/img2.png">
                     <div class="card-body">
                         <h4 class="card-title">PANTALON VERT BEAST</h4>
                         <h4 class="card-text mt-3">90€</h4>
@@ -126,7 +126,7 @@
             <div class="col-md-3">
                 <div class="card" style="margin: 5px; border: none;">
                 <a href="produit.php?id=3" style="text-decoration: none; color: black;">
-                <img class="card-img-top" src="../img/img3.png" alt="">
+                <img class="card-img-top" src="./img/img3.png" alt="">
                 <div class="card-body">
                     <h4 class="card-title">VESTE NOIR BEAST</h4>
                     <h4 class="card-text mt-3">180€</h4>
@@ -143,7 +143,7 @@
   <div class="container">
       <div class="row text-center text-md-start">
           <div class="col-md-3 mb-4 footer-logo">
-              <img src="../img/image 2.png" alt="" style="height: 120px;">
+              <img src="./img/image 2.png" alt="" style="height: 120px;">
           </div>
            <div class="col-md-3 mb-4">
               <h5 class="">Catégorie</h5>
