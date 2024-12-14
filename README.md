@@ -138,9 +138,11 @@
 
 **Ce qu’on aurait pu faire pour réussir le sprint 2 :** 
     - En vue du temps et du nombre de membres du groupe, il aurait peut-être judicieux de créer un site uniquement static,
-      sans de partie back. 
+      sans de partie back
+      
     - Adopter une meilleure anticipation des départs des membres pour permettre de refaire les - tâches en fonction
       de leur priorité et éviter un retard
+      
     - Prioriser avant tout la liaison avec le panier et l’utilisateur dès son départ, plutôt que de le réaliser le panier 
       et l’utilisateur séparément
 
