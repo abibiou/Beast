@@ -53,14 +53,14 @@ if (isset($_GET['id'])) {
             </ul>
           </div>
             <a class="navbar-brand mx-auto" href="pagepanier.php" style="position: absolute; left: 50%; transform: translateX(-50%);">
-                <img src="../img/image 2.png" alt="Logo" style="height: 60px;">
+                <img src="./img/image 2.png" alt="Logo" style="height: 60px;">
             </a>
             <div class="d-flex align-items-center" style="position: absolute; right: 15px;">
                 <a href="pagepanier.php">
-                    <img src="../img/image 24.png" alt="Panier" style="height: 30px; margin-right: 15px;">
+                    <img src="./img/image 24.png" alt="Panier" style="height: 30px; margin-right: 15px;">
                 </a>
                 <a href="Login.php">
-                <img src="../img/image 25.png" alt="Logo2" style="height: 30px;">
+                <img src="./img/image 25.png" alt="Logo2" style="height: 30px;">
             </a>
             </div>
         </div>
@@ -74,7 +74,7 @@ if (isset($_GET['id'])) {
     <div class="container mt-5">
         <div class="row mt-5">
             <div class="col-md-7 col-lg-7 mt-5">
-                <img src="../img/<?php echo htmlspecialchars($image); ?>" style="height: 500px; margin-left: 210px;">
+                <img src="./img/<?php echo htmlspecialchars($image); ?>" style="height: 500px; margin-left: 210px;">
                 <div style="display: flex; justify-content: center; gap: 1px; margin-left: 80px;">
                 </div>
             </div>
@@ -103,7 +103,7 @@ if (isset($_GET['id'])) {
   <div class="container">
       <div class="row text-center text-md-start">
           <div class="col-md-3 mb-4 footer-logo">
-              <img src="../img/image 2.png" alt="" style="height: 120px;">
+              <img src="./img/image 2.png" alt="" style="height: 120px;">
           </div>
            <div class="col-md-3 mb-4">
               <h5 class="">Catégorie</h5>
