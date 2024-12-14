@@ -22,14 +22,14 @@
             </ul>
           </div>
           <a class="navbar-brand mx-auto" href="pagepanier.php" style="position: absolute; left: 50%; transform: translateX(-50%);">
-            <img src="../img/image 2.png" alt="Logo" style="height: 60px;">
+            <img src="./img/image 2.png" alt="Logo" style="height: 60px;">
           </a>
           <div class="d-flex align-items-center" style="position: absolute; right: 15px;">
               <a href="pagepanier.php">
             <img src="./img/image 24.png" href="pagepanier.php" alt="Logo1" style="height: 30px; margin-right: 15px;">
             </a>
             <a href="Login.php">
-            <img src="../img/image 25.png" alt="Logo2" style="height: 30px;">
+            <img src="./img/image 25.png" alt="Logo2" style="height: 30px;">
             </a>
           </div>
         </div>
@@ -44,7 +44,7 @@
     </style>
    <div class="container-fluid p-5">
     <div class="card mt-5" style="border: none;">
-        <img class="card-img-top" src="../img/image 3.png" alt="">
+        <img class="card-img-top" src="./img/image 3.png" alt="">
         <div class="row">
             <div class="position-absolute bottom-0 start-50 translate-middle-x d-flex justify-content-center align-items-center bg-dark mb-4 opacity-75 rounded-5" style="width: 90%;">
                 <div class="col-md-1 col-lg-1">
@@ -74,7 +74,7 @@
                 <h3 class="mt-5">EN CE MOMENT</h3>
                 <p>Découvrez les articles les plus achetés actuellement,<br>
                     des choix illimités</p>
-                    <img class="card-img-top mt-4" src="../img/image 5 (1).png" alt="">
+                    <img class="card-img-top mt-4" src="./img/image 5 (1).png" alt="">
                     <h5 class="mt-4">VESTE ORANGE BEAST</h5>
                     <h5 class="mt-2">170€</h5>
             </div>
@@ -82,7 +82,7 @@
                 <h3 class="mt-5" style="color: #FFFFFF;">EN CE MOMENT</h3>
                 <p style="color: #FFFFFF;">Lorem ipsum dolor sit amet, consectetur adipiscing elit,<br>
                     Lorem ipsum dolor</p>
-            <img class="card-img-top mt-4" src="../img/image 7 (1).png" alt="">
+            <img class="card-img-top mt-4" src="./img/image 7 (1).png" alt="">
             <h5 class="mt-4">VESTE ORIGINAL BEAST</h5>
             <h5 class="mt-2">240€</h5>
         </div>
@@ -93,22 +93,22 @@
                <br> ne peux que être attirant aux yeux de tous
             </p>
             <div class="col-md-3 mt-3">
-                <img class="card-img-top " src="../img/image 20 (2).png" alt="">
+                <img class="card-img-top " src="./img/image 20 (2).png" alt="">
                 <h5 class="mt-4">PANTALON BEAST GRIS</h5>
                 <h5 class="mt-2">70€</h5>
             </div>
             <div class="col-md-3 mt-3">
-                <img class="card-img-top " src="../img/image 21.png" alt="">
+                <img class="card-img-top " src="./img/image 21.png" alt="">
                 <h5 class="mt-4">SURVÊTEMENT BEAST ORANGE</h5>
                 <h5 class="mt-2">210€</h5>
             </div>
             <div class="col-md-3 mt-3">
-                <img class="card-img-top " src="../img/image 19 (2).png" alt="">
+                <img class="card-img-top " src="./img/image 19 (2).png" alt="">
                 <h5 class="mt-4">VESETE BLEU FONCE BEAST</h5>
                 <h5 class="mt-2">190€</h5>
             </div>
             <div class="col-md-3 mt-3">
-                <img class="card-img-top " src="../img/image 22 (1).png" alt="">
+                <img class="card-img-top " src="./img/image 22 (1).png" alt="">
                 <h5 class="mt-4">PANTALON CARGO BEAST</h5>
                 <h5 class="mt-2">80€</h5>
             </div>
@@ -118,7 +118,7 @@
             <h3>PROMO</h3>
             <p class="mt-2">Des prix cassés pour des produits de qualités, profitez-en au plus vite !</p>
             <div class="col-md-12 col-lg-12">
-                <img class="card-img-top mt-3" src="../img/image 15.png" alt="">
+                <img class="card-img-top mt-3" src="./img/image 15.png" alt="">
                 <h5 class="mt-4">VESTE UNISEXE BEAST</h5>
                 <h5 class="mt-2">190€ <s class="text-danger">280€</s></h5>
             </div>
@@ -127,12 +127,12 @@
                 <p style="font-size: 24px;" class="mt-5">Nous sommes BEAST, fondée en 2024, notre marque de vêtements se spécialise dans le domaine de la randonnée et du bivouac. BEAST vous propose une large gamme d'habits et de toutes les couleurs, le tout avec une qualité supérieure. La majeure partie de nos produits est produite en France, offrant une qualité intéressante. Résistants dans tout type d'intempéries, BEAST est réputée pour sa polyvalence. </p>
             </div>
             <div class="col-md-6">
-                <img class="card-img-top " src="../img/image 18.png" alt="">
+                <img class="card-img-top " src="./img/image 18.png" alt="">
             </div>
         </div>
         <div class="row">
             <div class="col-md-6">
-            <img class="card-img-top " src="../img/image 16 (1).png" alt="">
+            <img class="card-img-top " src="./img/image 16 (1).png" alt="">
         </div>
         <div class="col-md-6">
             <h1 class="mt-5">LA SUITE ? </h1>
@@ -151,7 +151,7 @@
   <div class="container">
       <div class="row text-center text-md-start">
           <div class="col-md-3 mb-4 footer-logo">
-              <img src="../img/image 2.png" alt="" style="height: 120px;">
+              <img src="./img/image 2.png" alt="" style="height: 120px;">
           </div>
            <div class="col-md-3 mb-4">
               <h5 class="">Catégorie</h5>
