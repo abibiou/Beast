@@ -38,10 +38,10 @@
             </ul>
           </div>
           <a class="navbar-brand mx-auto" href="pagepanier.php" style="position: absolute; left: 50%; transform: translateX(-50%);">
-            <img src="./img/image 2.png" alt="Logo" style="height: 60px;">
+            <img src="../img/image 2.png" alt="Logo" style="height: 60px;">
           </a>
           <div class="d-flex align-items-center" style="position: absolute; right: 15px;">
-            <img src="./img/image 24.png" alt="Logo1" style="height: 30px; margin-right: 15px;">
+            <img src="../img/image 24.png" alt="Logo1" style="height: 30px; margin-right: 15px;">
             <a href="Login.php">
                 <img src="./img/image 25.png" alt="Logo2" style="height: 30px;">
             </a>
@@ -79,7 +79,7 @@
                     <div class="card d-flex flex-row align-items-center border-dark mb-3">
                         <div class="row w-100">
                             <div class="col-3">
-                                <img src="img/<?=$product['img']?>" class="img-fluid">
+                                <img src="../img/<?=$product['img']?>" class="img-fluid">
                             </div>
                             <div class="col-6">
                                 <h5 class="card-title mt-3"><?=$product['name']?><span class="text-success mx-3">En stock</span></h5>
@@ -111,11 +111,11 @@
                         <h6 class="card-title text-danger">Soldes : jusqu'à -70% avec nouveaux articles soldés</h6>
                         <p class="mt-3">Nous acceptons :</p>
                         <div class="d-flex align-items-center">
-                            <img  src="img/visa.png" class="card-img-top cercle" style="height: 60px; width: 60px;"></img>
-                            <img  src="img/paypall.png" class="card-img-top cercle mx-2" style="height: 60px; width: 60px;"></img>
-                            <img src="img/mastercard.webp" class="card-img-top cercle mx-2" style="height: 60px; width: 60px;"></img>
-                            <img  src="img/maestro.png"  class="card-img-top cercle mx-2" style="height: 60px; width: 60px;"></img>
-                            <img  src="img/klarna.png" class="card-img-top cercle mx-2" style="height: 60px; width: 60px;"></img>
+                            <img  src="../img/visa.png" class="card-img-top cercle" style="height: 60px; width: 60px;"></img>
+                            <img  src="../img/paypall.png" class="card-img-top cercle mx-2" style="height: 60px; width: 60px;"></img>
+                            <img src="../img/mastercard.webp" class="card-img-top cercle mx-2" style="height: 60px; width: 60px;"></img>
+                            <img  src="../img/maestro.png"  class="card-img-top cercle mx-2" style="height: 60px; width: 60px;"></img>
+                            <img  src="../img/klarna.png" class="card-img-top cercle mx-2" style="height: 60px; width: 60px;"></img>
                         </div>
                         <p class="mt-3">Les prix et les frais de livraison ne sont validés que durant la finalisation de la commande.
                             Délai de rétraction de 30 jours. Lisez à propos des retours et remboursements.</p>
@@ -129,7 +129,7 @@
   <div class="container">
       <div class="row text-center text-md-start">
           <div class="col-md-3 mb-4 footer-logo">
-              <img src="img/image 2.png" alt="" style="height: 120px;">
+              <img src="../img/image 2.png" alt="" style="height: 120px;">
           </div>
            <div class="col-md-3 mb-4">
               <h5 class="">Catégorie</h5>
