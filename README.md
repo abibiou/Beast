@@ -42,11 +42,12 @@
   objectif de créer la partie base de données et de le relier avec le front.
 
 **SPRINT 1**
-  **USER STORY 1**
+  
+**USER STORY 1**
 
 ![User Story 1 ](USERSTORY1.png "User story sprint 1")
 
-  **BACKLOG SPRINT 1**
+**BACKLOG SPRINT 1**
 
 ![BackLog Sprint 1 ](BACKLOG1.png "Backlog sprint 1")
 
@@ -54,7 +55,7 @@
 
 ![User Story 2 ](USERSTORY1.png "User story sprint 2")
 
-  **BACKLOG SPRINT 2**
+**BACKLOG SPRINT 2**
 
 ![BackLog Sprint 2 ](BACKLOG2.png "Backlog sprint 2")
 
