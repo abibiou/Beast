@@ -6,17 +6,30 @@
 - Jimryce Jouenne
 - Corentin Sinnema
 - Axel Friboulet
-- Corentin Thevenot 
+- Corentin Thevenot
 
-### **Description** 
+### **Lien vers le projet hébergé**
+
+Suite à des problèmes d'hébergement, nous avons uniquement à disposition le lien de notre GitHub.
+
+- https://github.com/abibiou/Beast
+
+**Comment ouvrir le site BEAST ?**
+
+Premièrement, téléchargez le code en ZIP via le lien GitHub, ensuite, après l'avoir extrait, rendez-vous sur MySQL afin de créer la base de données "beast" et d'importer les 2 tables : product (1) et utilisateur (1). 
+Ensuite, vous pouvez lancer la page d'accueil et naviguer où vous le souhaitez. (La page index.php correspond à la page de collection.)
+
+#### **Description** 
 
 * Le projet de BEAST est un site web de type e-commerce. Plus précisément, de la vente de vêtement conçu dans le domaine de la  
-  randonnée et du bivouac. Il s’agit d’un site permettant d’accéder à divers vêtements de la marque de vêtements, et ainsi, effectuer des achats en cas d’un ou de plusieurs produits un intéressé. La marque souhaite cibler principalement les amoureux de la randonnée. 
+  randonnée et du bivouac. Il s’agit d’un site permettant d’accéder à divers vêtements de la marque de vêtements, et ainsi, effectuer des achats
+  en cas d’un ou de plusieurs produits un intéressé. La marque souhaite
+  cibler principalement les amoureux de la randonnée. 
 
  
-#### **Conduite de projet**
+##### **Conduite de projet**
 
-#### **Méthode utilisée : Scrum**
+##### **Méthode utilisée : Scrum**
 
 * La méthode utilisée durant ce projet était la méthode SCRUM.
 
@@ -177,7 +190,7 @@
   d'accroître en maturité sur la gestion d’un projet et notamment en équipe avec de réels enjeux auquel certains 
   membres ont fait face. 
 
-#### **Étapes principales :**
+###### **Étapes principales :**
 
 1) **Idéation et conception**  
    
