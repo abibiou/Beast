@@ -41,7 +41,7 @@
 * Enfin, pour le second sprint, il fallait ne plus rendre le site statique avec le front. Ce second sprint a pour 
   objectif de créer la partie base de données et de le relier avec le front.
 
-![User Story 1 ](../img/USERSTORY1.png "User story sprint 1")
+![User Story 1 ](USERSTORY1.png "Userstorysprint1")
 
 [scrum](../img/BACKLOG1.png)
 [scrum](../img/USERSTORY2.png)
