@@ -54,7 +54,9 @@
 
 * Pour la répartition des tâches, après que nous avons trouvé nos sprint, nos users story et enfin la réalisation de nos 
   Backlog. Nous avons réalisé un Trello pour faire un Kanban afin qu’on puisse opérer une meilleure organisation et observer
-  un meilleur avancement des tâches. 
+  un meilleur avancement des tâches.
+
+  ![Trello ](KANBAN.png "KANBAN")
 
 * Cependant, l’équipe a rencontré un problème, quelques jours après le déroulement du projet. Nous avons eu Axel Friboulet 
   le chef de projet, Corentin Thévenot et Corentin Sinnema, qui ont décidé d’abandonner le projet. 
