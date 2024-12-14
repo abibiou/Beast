@@ -60,7 +60,7 @@ echo "Erreur de préparation de la requet: " . mysqli_error($conn);
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>SignUp</title>
-    <link rel="stylesheet" href="../CSS/SignUp.css">
+    <link rel="stylesheet" href="./CSS/SignUp.css">
 
 </head>
 <body>
@@ -72,7 +72,7 @@ echo "Erreur de préparation de la requet: " . mysqli_error($conn);
         <a href="apropos.php">À PROPOS</a>
     </nav>
 
-<img src="../img/Logo.png" alt="Logo_Beast" id="logo_beast">
+<img src="./img/Logo.png" alt="Logo_Beast" id="logo_beast">
     <style type="text/css">
         
         </style>
@@ -82,7 +82,7 @@ echo "Erreur de préparation de la requet: " . mysqli_error($conn);
         <form action="SignUp.php" method="post">
 
             <div id="CreateAccount">SignUp</div>
-            <img src="../img/Line 7.png" alt="trait" id="trait">
+            <img src="./img/Line 7.png" alt="trait" id="trait">
 
 
            <input id="Telephone" placeholder="Votre Numéro de téléphone" name="telephone" type="number" required ><br><br>
