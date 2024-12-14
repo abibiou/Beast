@@ -41,11 +41,14 @@
 * Enfin, pour le second sprint, il fallait ne plus rendre le site statique avec le front. Ce second sprint a pour 
   objectif de créer la partie base de données et de le relier avec le front.
 
-![User Story 1 ](USERSTORY1.png "Userstorysprint1")
+![User Story 1 ](USERSTORY1.png "User story sprint 1")
 
-[scrum](../img/BACKLOG1.png)
-[scrum](../img/USERSTORY2.png)
-[scrum](../img/BACKLOG1.png)
+![BackLog Sprint 1 ](BACKLOG1.png "Backlog sprint 1")
+
+![User Story 2 ](USERSTORY1.png "User story sprint 2")
+
+![BackLog Sprint 2 ](BACKLOG2.png "Backlog sprint 2")
+
 
 #### **Répartition des tâches**
 
