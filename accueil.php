@@ -25,7 +25,9 @@
             <img src="../img/image 2.png" alt="Logo" style="height: 60px;">
           </a>
           <div class="d-flex align-items-center" style="position: absolute; right: 15px;">
-            <img src="../img/image 24.png" alt="Logo1" style="height: 30px; margin-right: 15px;">
+              <a href="pagepanier.php">
+            <img src="./img/image 24.png" href="pagepanier.php" alt="Logo1" style="height: 30px; margin-right: 15px;">
+            </a>
             <a href="Login.php">
             <img src="../img/image 25.png" alt="Logo2" style="height: 30px;">
             </a>
