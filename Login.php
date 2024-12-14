@@ -7,7 +7,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <title>Connexion</title>
-    <link rel="stylesheet" href="LogIn.css">
+    <link rel="stylesheet" href="../CSS/LogIn.css">
 
 </head>
 <body>
@@ -15,10 +15,10 @@
     <nav id="navbar">
         <a href="accueil.php">ACCUEIL</a>
         <a href="index.php">COLLECTIONS</a>
-        <a href="aontact.php">CONTACT</a>
+        <a href="caontact.php">CONTACT</a>
         <a href="A propos.php">À PROPOS</a>
     </nav>
-<img src="Logo.png" alt="Logo_Beast" id="logo_beast">
+<img src="../img/Logo.png" alt="Logo_Beast" id="logo_beast">
     <style type="text/css">
         
         </style>
@@ -28,7 +28,7 @@
         <form action="pagepanier.php" method="post">
 
             <div id="Connexion">Login</div>
-            <img src="Line 7.png" alt="trait" id="trait">
+            <img src="../img/Line 7.png" alt="trait" id="trait">
             <input id="text" placeholder="Email" name="mail" type="mail" name="user_mail" value=""><br><br>
 
         
