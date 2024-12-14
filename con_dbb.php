@@ -1,7 +1,7 @@
 <?php
 $host = 'localhost'; 
 $dbname = 'beast'; 
-$username = '';
+$username = 'root';
 $password = ''; 
 
 $con = mysqli_connect($host, $username, $password, $dbname);
