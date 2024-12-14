@@ -51,7 +51,7 @@
 
     <div class="container-fluid p-5">
         <div class="card mt-5" style=" border: none;">
-            <img class="card-img-top" src="../img/noscollect.png" alt="">
+            <img class="card-img-top" src="./img/noscollect.png" alt="">
             <div class="position-absolute top-50 start-0 translate-middle-y">
                 <h1 class="mx-5" style="color: white;">Nos collections</h1>
                 <p class="mx-5 mt-3" style="color: white;">Découvrez l'intégralité des produtis de Beast, son élégeance <br>et sa qualité
