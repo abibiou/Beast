@@ -41,6 +41,11 @@
 * Enfin, pour le second sprint, il fallait ne plus rendre le site statique avec le front. Ce second sprint a pour 
   objectif de créer la partie base de données et de le relier avec le front.
 
+[scrum](../img/USERSTORY1.png)
+[scrum](../img/BACKLOG1.png)
+[scrum](../img/USERSTORY2.png)
+[scrum](../img/BACKLOG1.png)
+
 #### **Répartition des tâches**
 
 * Pour la répartition des tâches, après que nous avons trouvé nos sprint, nos users story et enfin la réalisation de nos 
